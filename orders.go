@@ -20,7 +20,7 @@ func main() {
     "Jordan": "Fries",
   }
   // A late order
-  orders["James"] = "Chicken Sandwich"
+  orders["James"] = "Nugget Sandwich"
   
     fmt.Println("\nThe friends' orders:")
   // WRITE LOOP GOING THROUGH ORDERS BELOW THIS LINE
